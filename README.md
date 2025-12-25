@@ -17,6 +17,7 @@ Analysis of the 2022 Nord Stream pipeline crisis and its impact on European ener
 
 📁 Analysis:
 ├── analysis.ipynb                          # Main analysis (RUN THIS!)
+├── analysis.pdf                            # Same as .ipynb but in PDF format
 ├── Trading Memo.md                         # Trading recommendations
 ├── ai_trading_copilot.py                  # AI decision support tool
 └── combined_analysis_data.csv              # Generated dataset
@@ -30,10 +31,10 @@ Analysis of the 2022 Nord Stream pipeline crisis and its impact on European ener
 ## 🚀 How to Run
 
 ### 1. Run Analysis Notebook
-
 ```bash
 jupyter notebook analysis.ipynb
 ```
+**Or view the PDF version:** `analysis.pdf` (same content, no code execution needed)
 
 **Generates:** 8 charts + combined data + key statistics
 
